@@ -27,3 +27,4 @@ Bizonyos házi feladatok kérik, hogy készíts képernyőképet a megoldás egy
 ## Szükséges eszközök
 
 A szükséges fejlesztőkörnyezet alapvetően a Visual Studio 2022, erről [itt](./fejlesztokornyezet/index.md) található bővebb leírás.
+Teszt
