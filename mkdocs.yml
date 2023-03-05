@@ -80,7 +80,7 @@ plugins:
       timezone: Europe/Budapest
       locale: hu
   - git-committers:
-      repository: bmeviauab00/szoftvertechnikak
+      repository: bzolka/szt_doc_teszt
       branch: main
 
 nav:
